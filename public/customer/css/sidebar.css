@@ -1,0 +1,80 @@
+
+.nav-file{
+    color: black;
+    margin-inline: 10px;
+    font-size: large;
+}
+
+.user-icon{
+    font-size:52px;
+    margin-left: 150px;
+   }
+.user-name{
+      margin-top: 10px;
+      margin-bottom: 20px;
+      margin-left: 90px;
+      font-size: 25px;
+      font-family:serif;
+ }
+      /* Sidebar styling */
+.sidebar {
+          height: 100%;
+          width: 370px;
+          margin-top: 90px;
+          margin-bottom: 20px;
+          background-color: #283b8b;
+          padding-top: 40px;
+          color: #fff;
+          border-radius: 8px;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      /* Card styling */
+.text-card {
+          background-color: #3d4c8f;
+          margin: 6px;
+          padding: 1px;
+          border: 1px solid  #3d4c8f;
+          border-radius: 4px;
+}
+.text-card:hover{
+              cursor: pointer;
+          background-color: #b2bbd8;
+          color: rgb(63, 140, 190);
+}
+.customer-ml{
+          margin-left: 15px;
+}
+.customer-mr{
+          margin-right: 15px;
+ }
+      
+.font-customer{
+      text-align: center;
+      font-weight: bold;
+}
+.font-customer:hover{
+       color: black;
+ }
+         
+      /* Icon styling */
+.icon-customer {
+       text-align: center;
+       font-size: 24px;
+       margin-top: 5px;
+       margin-bottom: 5px;
+
+ }
+     
+ .icon-customer:hover{
+        color: black;
+}
+      /* Sign-out button */
+.sign-out-customer {
+        /* position: relative;
+        left: 135px; */
+        margin-top: 200px;
+        margin-bottom: 35px;
+        padding: 20px;
+        margin-left: 110px;
+}

@@ -1,0 +1,28 @@
+.bill {
+    border: 2px solid #ccc;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.bill-header {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.bill-table {
+    width: 100%;
+}
+
+.bill-table th, .bill-table td {
+    text-align: left;
+    padding: 8px;
+}
+
+.bill-table th {
+    background-color: #f2f2f2;
+}
+
+.bill-total {
+    font-weight: bold;
+}
